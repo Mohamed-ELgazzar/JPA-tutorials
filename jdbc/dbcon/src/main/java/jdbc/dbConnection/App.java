@@ -26,6 +26,9 @@ public class App {
 
     public static void main(String args[]) {
         new App();
+        System.out.println("Mahmoud Adam changed");
+	int z = 10;
+	System.out.println(z);
     }
 
 }
