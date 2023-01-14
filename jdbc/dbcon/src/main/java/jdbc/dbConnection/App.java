@@ -27,6 +27,11 @@ public class App {
     public static void main(String args[]) {
         new App();
 <<<<<<< HEAD
+        System.out.println("Mahmoud Adam changed");
+	int z = 10;
+	System.out.println(z);
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
         System.out.println("Mahmoud changed");
 =======
@@ -34,10 +39,11 @@ public class App {
 =======
         System.out.println("Mahmoud changed and Eslam");
         int x;
-        x=5;
+        x=6;
         System.out.println("x= "+x);
 
 >>>>>>> 54504206fa9d8118b6d18948be6df346493283ab
+>>>>>>> 967d496104c07977a70918b6b1b892ddf2063fe5
     }
 
 }
