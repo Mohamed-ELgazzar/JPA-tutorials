@@ -39,7 +39,7 @@ public class App {
 =======
         System.out.println("Mahmoud changed and Eslam");
         int x;
-        x=5;
+        x=6;
         System.out.println("x= "+x);
 
 >>>>>>> 54504206fa9d8118b6d18948be6df346493283ab
